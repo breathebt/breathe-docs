@@ -1,0 +1,10 @@
+site_name: Breathe Model Documentation
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Breathe Model:
+      - Install the Library: Breathe_Model/Install-the-Library.md
+      - Refresh & Verify: Breathe_Model/Refresh-and-Verify.md
+      - Assemble Your First Model: Breathe_Model/Assemble-Your-First-Model.md
+      - Configure & Run: Breathe_Model/Configure-and-Run.md
