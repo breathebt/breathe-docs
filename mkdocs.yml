@@ -1,4 +1,5 @@
 site_name: Breathe Model Documentation
+site_url: https://breathebt.github.io/breathe-docs/
 theme:
   name: material
 nav:
